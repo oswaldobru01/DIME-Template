@@ -1,0 +1,158 @@
+/* [project]/src/app/css/flaticon_gerold.css [app-client] (css) */
+@font-face {
+  font-family: flaticon_gerold;
+  src: url("/_next/static/media/flaticon_gerold.c6acaa45.woff2") format("woff2"), url("/_next/static/media/flaticon_gerold.ee601ba8.woff") format("woff"), url("/_next/static/media/flaticon_gerold.9ed59426.eot") format("embedded-opentype"), url("/_next/static/media/flaticon_gerold.36b19f32.ttf") format("truetype"), url("/_next/static/media/flaticon_gerold.81c37e54.svg") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: flaticon_gerold !important;
+  font-weight: normal !important;
+}
+
+.flaticon-smartphone:before {
+  content: "";
+}
+
+.flaticon-browser:before {
+  content: "";
+}
+
+.flaticon-bezier-tool:before {
+  content: "";
+}
+
+.flaticon-code:before {
+  content: "";
+}
+
+.flaticon-crown:before {
+  content: "";
+}
+
+.flaticon-menu:before {
+  content: "";
+}
+
+.flaticon-hand-bag:before {
+  content: "";
+}
+
+.flaticon-trophy:before {
+  content: "";
+}
+
+.flaticon-download:before {
+  content: "";
+}
+
+.flaticon-graduation-cap:before {
+  content: "";
+}
+
+.flaticon-mortarboard:before {
+  content: "";
+}
+
+.flaticon-school:before {
+  content: "";
+}
+
+.flaticon-recommendation:before {
+  content: "";
+}
+
+.flaticon-certificate:before {
+  content: "";
+}
+
+.flaticon-experience:before {
+  content: "";
+}
+
+.flaticon-user-experience:before {
+  content: "";
+}
+
+.flaticon-seo:before {
+  content: "";
+}
+
+.flaticon-ui-design:before {
+  content: "";
+}
+
+.flaticon-web-design:before {
+  content: "";
+}
+
+.flaticon-ux-design:before {
+  content: "";
+}
+
+.flaticon-3d-movie:before {
+  content: "";
+}
+
+.flaticon-design:before {
+  content: "";
+}
+
+.flaticon-communicate:before {
+  content: "";
+}
+
+.flaticon-rating:before {
+  content: "";
+}
+
+.flaticon-skill-development:before {
+  content: "";
+}
+
+.flaticon-resume:before {
+  content: "";
+}
+
+.flaticon-suitcase:before {
+  content: "";
+}
+
+.flaticon-home-button:before {
+  content: "";
+}
+
+.flaticon-management-service:before {
+  content: "";
+}
+
+.flaticon-location:before {
+  content: "";
+}
+
+.flaticon-mail-inbox-app:before {
+  content: "";
+}
+
+.flaticon-phone-call:before {
+  content: "";
+}
+
+.flaticon-calendar:before {
+  content: "";
+}
+
+.flaticon-clock:before {
+  content: "";
+}
+
+.flaticon-up-right-arrow:before {
+  content: "";
+}
+
+/*# sourceMappingURL=src_app_css_flaticon_gerold_b52d8e.css.map*/
