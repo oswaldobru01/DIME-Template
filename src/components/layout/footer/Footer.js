@@ -68,14 +68,14 @@ const Footer = () => {
                 footerType === 2 ? "text-primary-color" : "text-gray-color"
               } whitespace-nowrap text-sm md:text-base mt-5`}
             >
-              © 2024 All rights reserved by{" "}
+              © 2025 All rights reserved by{" "}
               <Link
                 href="/"
                 className={`${
                   footerType === 2 ? "text-primary-color " : "text-white-color"
                 } hover:text-primary-color`}
               >
-                ThemeJunction
+                Digital Marketing Experts
               </Link>
             </div>
           </div>

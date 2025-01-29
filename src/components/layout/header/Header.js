@@ -42,7 +42,7 @@ const Header = ({ isSticky }) => {
                         : "text-seondary-color dark:text-white-color"
                     } `}
                   >
-                    Digital Marketing Expertss
+                    Digital Marketing Experts
                   </Link>
                 </li>
               </ul>
