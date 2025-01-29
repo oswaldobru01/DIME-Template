@@ -12,7 +12,7 @@ const Hero = () => {
       <div className="intro_text">
         <svg viewBox="0 0 1320 300" className="overflow-hidden">
           <text x="50%" y="50%" textAnchor="middle" className="animate-stroke">
-            HI
+            DIME
           </text>
         </svg>
       </div>
@@ -51,15 +51,7 @@ const Hero = () => {
               <Socials />
             </div>
           </div>
-          <div className="hidden md:flex md:justify-center md:items-center relative after:absolute after:bottom-0 after:left-0 after:w-220px after:h-220px after:blur-[150px] after:rounded-50% after:bg-gradient-circle after:-z-1 after:-mt-5% after:-mr-5%">
-            <Image
-              src="/img/hero/me.png"
-              width={437}
-              height={475}
-              alt="banner image"
-              className="rounded-38px border-2 border-seondary-color hover:border-primary-color rotate-[4.29deg] hover:rotate-0 transition-all duration-300"
-            />
-          </div>
+         
         </div>
       </div>
       {/* <!-- fanfact --> */}

@@ -2753,11 +2753,6 @@ body.loaded {
   height: 1px;
 }
 
-.after\:h-220px:after {
-  content: var(--tw-content);
-  height: 13.75rem;
-}
-
 .after\:h-308px:after {
   content: var(--tw-content);
   height: 19.25rem;
@@ -2776,11 +2771,6 @@ body.loaded {
 .after\:w-1px:after {
   content: var(--tw-content);
   width: 1px;
-}
-
-.after\:w-220px:after {
-  content: var(--tw-content);
-  width: 13.75rem;
 }
 
 .after\:w-322px:after {
@@ -3263,10 +3253,6 @@ body.loaded {
     display: block;
   }
 
-  .md\:flex {
-    display: flex;
-  }
-
   .md\:grid {
     display: grid;
   }
@@ -3309,10 +3295,6 @@ body.loaded {
 
   .md\:items-center {
     align-items: center;
-  }
-
-  .md\:justify-center {
-    justify-content: center;
   }
 
   .md\:justify-between {
